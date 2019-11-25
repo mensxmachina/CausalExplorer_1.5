@@ -10,7 +10,7 @@ Version 1.5 (November 2019)
 
 1. Rebuild all P-code files. P files are compatible with Matlab R2017b (Version 9.3).
 
-=================================================================================
+===============================================================================
 
 Version 1.4 (June 2005)
 
@@ -21,20 +21,20 @@ Version 1.4 (June 2005)
 5. More algorithms execution examples are included in the distributive
 6. Discretization utility
 
-=================================================================================
+===============================================================================
 
 Version 1.3 (October 2004):
 
 1. Added MMHC Algorithm
 2. Improved implementation of SCA algorithm
 
-=================================================================================
+===============================================================================
 
 Version 1.2 (May-June 2003):
 
 1. Added BN Tiling Tool
 
-=================================================================================
+===============================================================================
 
 Version 1.1 (April 2003):
 
@@ -50,7 +50,7 @@ Version 1.1 (April 2003):
    The variables are ranked based on their associations according to p-values (when they are comparable
    numerically) and according to G^2 statistic values otherwise.
 
-=================================================================================
+===============================================================================
 
 Version 1.0a (December 2002-January 2003):
 
