@@ -1,4 +1,4 @@
-addpath('..\causal_explorer\Pfiles');
+addpath('..\causal_explorer');
 
 %Load Data
 load ..\Data\random_data_1;
