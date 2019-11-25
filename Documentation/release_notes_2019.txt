@@ -2,7 +2,7 @@
 
 Version 1.5 (November 2019)
 
-1. Rebuild all P-code files (Matlab R2017b)
+1. Rebuild all P-code files. P files are compatible with Matlab R2017b (Version 9.3).
 
 =================================================================================
 
