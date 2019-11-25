@@ -1,5 +1,6 @@
 # CausalExplorer_1.5
-full manual under Documentation folder
+=================================================================================
+0. full manual under Documentation folder
 =================================================================================
 Version 1.5 (November 2019)
 
